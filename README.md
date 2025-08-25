@@ -13,6 +13,11 @@ By modeling these patterns, we can estimate the **purchase potential of each use
 
 ---
 
+## 🏆 Score  
+<img width="1406" height="186" alt="Screenshot 2025-08-25 at 11 45 37 PM" src="https://github.com/user-attachments/assets/cde87ca5-18d7-4b38-9c5c-3b6ae092ac5b" />
+
+---
+
 ## 📂 Dataset  
 - Provided as part of the **Engage2Value competition**.  
 - Contains user-level interaction logs with categorical and numerical features.  
